@@ -215,10 +215,8 @@ biographer-them/
 
 Part of the **Fireside Biographer** family:
 
-- **[`biographer-me`](https://github.com/timliao1200/biographer-me)** — 自傳版（深度版 · 3h+）
-- **[`biographer-me-lite`](https://github.com/timliao1200/biographer-me-lite)** — 自傳體驗版 Firelight（10 min）
-- **`biographer-them`（你在這裡）** — 他傳版（深度版） 🕯️
-- **[`biographer-them-lite`](https://github.com/timliao1200/biographer-them-lite)** — 他傳體驗版 Firelight · 他 / 她 · 10 分鐘挖一個關於他 / 她的瞬間 ⚡
+- **[`biographer-me`](https://github.com/timliao1200/biographer-me)** — 自傳版
+- **`biographer-them`（你在這裡）** — 他傳版（B1/B2 雙路徑） 🕯️
 
 ---
 
